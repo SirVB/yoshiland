@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f40a6bf0.chunk.css",
+    "main.js": "/static/js/main.3fa3b2e7.chunk.js",
+    "main.js.map": "/static/js/main.3fa3b2e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76c7a55c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76c7a55c.js.map",
+    "static/css/2.59405167.chunk.css": "/static/css/2.59405167.chunk.css",
+    "static/js/2.b4979b83.chunk.js": "/static/js/2.b4979b83.chunk.js",
+    "static/js/2.b4979b83.chunk.js.map": "/static/js/2.b4979b83.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0d4174d9e698eb1aaa3a842adc84a34.js": "/precache-manifest.e0d4174d9e698eb1aaa3a842adc84a34.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.59405167.chunk.css.map": "/static/css/2.59405167.chunk.css.map",
+    "static/css/main.f40a6bf0.chunk.css.map": "/static/css/main.f40a6bf0.chunk.css.map",
+    "static/js/2.b4979b83.chunk.js.LICENSE.txt": "/static/js/2.b4979b83.chunk.js.LICENSE.txt",
+    "static/media/logo-yoshi.png": "/static/media/logo-yoshi.3005af21.png",
+    "static/media/yoshilogo.png": "/static/media/yoshilogo.f4c7edd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c7a55c.js",
+    "static/css/2.59405167.chunk.css",
+    "static/js/2.b4979b83.chunk.js",
+    "static/css/main.f40a6bf0.chunk.css",
+    "static/js/main.3fa3b2e7.chunk.js"
+  ]
+}
